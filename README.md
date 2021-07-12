@@ -1,6 +1,8 @@
 # JuliaCon
 _Content presented at JuliaCon!_
 
+All content is posted under the [MIT License](LICENSE).
+
 ## JuliaCon 2021
 
 ### Going to Jupiter with Julia (_lightning talk_)
