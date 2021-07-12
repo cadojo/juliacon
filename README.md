@@ -9,8 +9,8 @@ _Content presented at JuliaCon!_
 Modern astrodynamics demands a lot from scientific-computing. Calculations are often expensive, and correct unit handling is essential. Sometimes, complex algorithms are needed to parse through vast amounts of data. Julia's efficient syntax, and rich and growing ecosystem has met these challenges with minimal developer effort throughout the development of GeneralAstrodynamics.jl. Feature development and research applications will be presented alongside a simple Earth-Jupiter transfer design.
 
 ##### Content
-* Slides (PDF)
-* Slides (Pluto)
-* Presentation
+* Slides ([PDF](2021/slides/going-to-jupiter-with-julia.pdf))
+* Notebook ([Pluto](2021/notebooks/going-to-jupiter-with-julia.jl))
+* Presentation (not yet posted)
 
 
