@@ -13,6 +13,6 @@ Modern astrodynamics demands a lot from scientific-computing. Calculations are o
 #### Content
 * Slides ([PDF](/2021/slides/Going%20to%20Jupiter%20with%20Julia%20–%20Carpinelli.pdf))
 * Notebook ([Pluto](/2021/notebooks/going-to-jupiter-with-julia.jl))
-* Presentation [YouTube](https://www.youtube.com/watch?v=WnvKaUsGv8w&t=11s)
+* Presentation [(YouTube)](https://www.youtube.com/watch?v=WnvKaUsGv8w&t=11s)
 
 
